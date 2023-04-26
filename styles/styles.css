@@ -1,0 +1,33 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+
+/* This is a comment */
+
+
+.emphasizedText{
+    font-style: italic;
+    color: black;
+}
+
+body{
+    background-color: gray;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    
+}
+/* if you need to center bullets/numbers, use ol{ list-style-position: inside;}, also remember this but with ul{*/
+
+li{
+    list-style-position: inside;
+}
